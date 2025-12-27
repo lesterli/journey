@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://lesterjourney.pages.dev" # Cloudflare Pages domain
 title = "Lester's Journey"
-description = "Learning notes. Engineering practice. Systems thinking."
+description = "Exploring engineering practice, systems thinking and personal growth."
 
 theme = "tabi"
 taxonomies = [{name = "tags", feed = true}]

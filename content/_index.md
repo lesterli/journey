@@ -10,4 +10,4 @@ max_posts = 4
 
 Rustacean 🦀, AI Data Engineer 🤖
 
-Exploring engineering practice, systems thinking, and personal growth.
+Exploring engineering practice, systems thinking and personal growth.
