@@ -8,6 +8,6 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-Rustacean 🦀 | AI Data Engineer 🤖
+Rustacean 🦀, AI Data Engineer 🤖
 
 Sharing notes on engineering practice and systems thinking.
