@@ -21,3 +21,6 @@ highlight_theme = "css"
 [extra]
 # Put all your custom variables here
 header = {title = "Hello! I'm Lester~", img = "img/avatar.jpg", img_alt = "Lester's avatar" }
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+]
