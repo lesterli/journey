@@ -25,3 +25,5 @@ menu = [
     { name = "Blog", url = "blog", trailing_slash = true },
     { name = "About", url = "about", trailing_slash = true },
 ]
+# Unicode-based counting is inaccurate for Chinese text
+show_reading_time = false
