@@ -26,9 +26,10 @@ tags = ["智能体编排", "上下文工程", "AI"]
 
 Karpathy 将 AI 比喻为一个**没有说明书的外来工具**，全球开发者的每一次尝试、每一个成功案例、每一次踩坑分享，都在为这个工具编写“说明书”。想要系统掌握这些能力，可参考这些资源：
 
-* 提示词设计：Google 官方发布的《Prompt Engineering》白皮书（https://www.kaggle.com/whitepaper-prompt-engineering），详细拆解了提示词的设计逻辑、优化技巧及模型配置要点，是入门提示工程的权威指南；
-* 上下文工程：GitHub 热门项目[Context Engineering](https://github.com/davidkimai/Context-Engineering)，由 Karpathy 理念启发，超越基础提示词工程，聚焦上下文设计、编排与优化，包含完整的理论框架和实操案例；
-* 智能体技能与协作：Anthropic 官方开源的[Skills](https://github.com/anthropics/skills)，提供了可直接复用的技能模板，教你如何让 AI 掌握专业化任务流程；还有多智能体协作的 Contains Studio [Agents](https://github.com/contains-studio/agents)，收录了设计、工程、营销等多领域的专业智能体，展示了多智能体协作的落地范式。
+* 入门提示词设计：Google 官方发布的白皮书 [Prompt Engineering](https://www.kaggle.com/whitepaper-prompt-engineering)，详细描述了提示词的设计逻辑和优化技巧，是提示词工程的入门指南；
+* 进阶上下文工程：由 Karpathy 理念启发的项目 [Context Engineering](https://github.com/davidkimai/Context-Engineering)，聚焦上下文设计、编排与优化，包含理论和实操案例；
+* 掌握智能体技能：Anthropic 官方开源的 [Skills](https://github.com/anthropics/skills)，提供了可直接复用的技能模板，让 AI 掌握专业化任务流程； 
+* 玩转多智能体：Contains Studio [Agents](https://github.com/contains-studio/agents)，收录了设计、工程等多领域的专业智能体，展示了多智能体协作的落地范式。
 
 这些资源正在社区中不断完善，最终形成新时代的编程方法论。
 
